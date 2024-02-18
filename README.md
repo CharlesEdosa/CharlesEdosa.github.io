@@ -1,5 +1,6 @@
 # Hi, i'm Charles
-<a href="https://linkedin.com/in/overjoy"><img src="https://img.shields.io/badge/LinkedIn-overjoy-blue?logo=linkedin)](https://www.linkedin.com/in/overjoy/)"
+![Static Badge](https://img.shields.io/badge/overjoycharles-blue?style=flat-square&logo=twitter&logoColor=blue&labelColor=white&color=blue&link=https%3A%2F%2Ftwitter.com%2Foverjoycharles)
+
 # SOC analyst
 
 ## Objective
