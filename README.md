@@ -1,5 +1,5 @@
 # Hi, i'm Charles
-<a href= "https://www.linkedin.com/in/overjoy?"lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCV6PLf5xQdO4LzsdayIS6Q%3D%3D
+https://img.shields.io/badge/LinkedIn-overjoy-blue?logo=linkedin)](https://www.linkedin.com/in/overjoy/) 
 # SOC analyst
 
 ## Objective
