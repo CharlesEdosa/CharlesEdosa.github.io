@@ -18,7 +18,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Ability to generate and recognize attack signatures and patterns.
 - Enhanced knowledge of network protocols and security vulnerabilities.
 - Development of critical thinking and problem-solving skills in cybersecurity.
-- 
+  
 
 ### Tools Used
 
@@ -32,23 +32,20 @@ MSc computing technologyy with advanced practice
 BSc Environmental Science
 
 ### Work experience
-IT technician @ Sidmach Technologies Nigeria Limited
-
--big impact project 1
-
--big impact project 2
+- IT technician @ Sidmach Technologies Nigeria Limited
+- big impact project 1
+- big impact project 2
 
 ### Certifications
 ![Static Badge](https://img.shields.io/badge/CC-%20GREEN?style=for-the-badge&logo=ISC2&logoColor=black&labelColor=white&color=green&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2Fd01af4b9-1060-42cb-b06f-a3270013d38b%2Flinked_in_profile)
 
 
-
 ### Projects
--incident recording and reporting
--network monitoring on splunk
--python functions
--sql language
--linux command
+- incident recording and reporting
+- network monitoring on splunk
+- python functions
+- sql language
+- linux command
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
