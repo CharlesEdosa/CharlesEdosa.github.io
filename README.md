@@ -26,7 +26,8 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
   
 ### Education
-MSc computing technoloy with advanced practice
+MSc computing technologyy with advanced practice
+BSc Environmental Science
 
 ### Work experience
 IT technician @ Sidmach Technologies Nigeria Limited
