@@ -33,6 +33,10 @@ IT technician @ Sidmach Technologies Nigeria Limited
 -big impact project 1
 -big impact project 2
 
+### Certifications
+https://img.shields.io/badge/CC-%20GREEN?style=for-the-badge&logo=ISC2&logoColor=black&labelColor=white&color=green&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2Fd01af4b9-1060-42cb-b06f-a3270013d38b%2Flinked_in_profile
+
+
 ### Projects
 -incident recording and reporting
 -network monitoring on splunk
