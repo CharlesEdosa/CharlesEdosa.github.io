@@ -39,7 +39,8 @@ BSc Environmental Science
 ### Certifications
 ![Static Badge](https://img.shields.io/badge/CC-%20GREEN?style=for-the-badge&logo=ISC2&logoColor=black&labelColor=white&color=green&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2Fd01af4b9-1060-42cb-b06f-a3270013d38b%2Flinked_in_profile)
 
-![Static Badge](https://img.shields.io/badge/Google%20cybersecurity%20professional%20certificate-%20GREEN?style=for-the-badge&labelColor=white&color=green&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F0c29d6a2-c7b8-4528-9a03-c35f5d4ed5c8%2Flinked_in_profile)
+![Static Badge](https://img.shields.io/badge/Google%20cybersecurity%20professional%20certificate-%20red?style=for-the-badge&labelColor=red&color=blue&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F0c29d6a2-c7b8-4528-9a03-c35f5d4ed5c8%2Flinked_in_profile)
+
 
 
 
