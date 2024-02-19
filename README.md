@@ -32,7 +32,9 @@ BSc Environmental Science
 
 ### Work experience
 IT technician @ Sidmach Technologies Nigeria Limited
+
 -big impact project 1
+
 -big impact project 2
 
 ### Certifications
@@ -42,9 +44,13 @@ IT technician @ Sidmach Technologies Nigeria Limited
 
 ### Projects
 -incident recording and reporting
+
 -network monitoring on splunk
+
 python functions
+
 sql language
+
 linux command 
 
 ## Steps
