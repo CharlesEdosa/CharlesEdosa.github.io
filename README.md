@@ -18,6 +18,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Ability to generate and recognize attack signatures and patterns.
 - Enhanced knowledge of network protocols and security vulnerabilities.
 - Development of critical thinking and problem-solving skills in cybersecurity.
+- 
 
 ### Tools Used
 
@@ -44,14 +45,10 @@ IT technician @ Sidmach Technologies Nigeria Limited
 
 ### Projects
 -incident recording and reporting
-
 -network monitoring on splunk
-
-python functions
-
-sql language
-
-linux command 
+-python functions
+-sql language
+-linux command
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
