@@ -27,6 +27,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
   
 ### Education
 MSc computing technologyy with advanced practice
+
 BSc Environmental Science
 
 ### Work experience
