@@ -1,6 +1,6 @@
 Title: Charles Edosa
 logo: github pics.jpeg # use a relative path to logo image
-description: cyber security portfolio. # Fix hyphenation 
+description: # cyber security portfolio. # Fix hyphenation 
 show_downloads: true # Fix spelling
 theme: jekyll-theme-minimal
 plugins:
