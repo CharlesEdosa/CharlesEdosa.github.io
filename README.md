@@ -47,10 +47,7 @@ BSc Environmental Science
 
 ### Projects
 - incident recording and reporting
-- network monitoring on splunk
-
-- https://imgur.com/a/zhSjqD2
-  
+- network monitoring on splunk  
 - python functions
 - sql language
 - linux command
