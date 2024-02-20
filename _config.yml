@@ -1,5 +1,9 @@
 Title: Charles Edosa
-#logo: assests/img/headshot_circle.png
-#description: text below image
-#show_downloads: false
+#logo: 1.png # Use a relative path to logo image 
+#description: cyber security portfolio. # Fix hyphenation 
+#show_downloads: true # Fix spelling
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
+
+email: edosacharles111@yahoo.com # Allow visitors to contact you
