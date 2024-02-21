@@ -42,15 +42,12 @@ BSc Environmental Science
 ![Static Badge](https://img.shields.io/badge/cybersecurity%20professional%20certificate-%20red?style=for-the-badge&logo=IBM&logoColor=blue&labelColor=white&color=black&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2Faefc5155-7e3d-444d-9e71-25dda796dbfa%2Flinked_in_profile)
 
 
-
-
-
 ### Projects
 - incident recording and reporting
 - network monitoring on splunk  
 - python functions
 - sql language
-- linux command
+- [changing permissions on linux] https://github.com/CharlesEdosa/file-permissions-in-linux/tree/main
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
