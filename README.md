@@ -49,11 +49,4 @@ BSc Environmental Science
 - sql language
 - [changing permissions on linux] https://github.com/CharlesEdosa/file-permissions-in-linux/tree/main
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
