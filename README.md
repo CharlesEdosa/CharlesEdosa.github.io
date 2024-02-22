@@ -48,7 +48,7 @@ BSc Environmental Science
 - incident recording and reporting
 - network monitoring on splunk  
 - python functions
-- SQL Queries 
+- SQL Queries : https://github.com/CharlesEdosa/SQL-queries
 - [changing permissions on linux: https://github.com/CharlesEdosa/file-permissions-in-linux/tree/main
 
 
