@@ -47,6 +47,6 @@ BSc Environmental Science
 - network monitoring on splunk  
 - python functions
 - sql language
-- [changing permissions on linux] https://github.com/CharlesEdosa/file-permissions-in-linux/tree/main
+- [changing permissions on linux: https://github.com/CharlesEdosa/file-permissions-in-linux/tree/main
 
 
