@@ -50,7 +50,7 @@ BSc Environmental Science
 ### Projects
 - incident recording and reporting
 - network monitoring on splunk  
-- python functions
+- python functions: https://github.com/CharlesEdosa/Python-functions/tree/main 
 - SQL Queries : https://github.com/CharlesEdosa/SQL-queries
 - [changing permissions on linux: https://github.com/CharlesEdosa/file-permissions-in-linux/tree/main
 
