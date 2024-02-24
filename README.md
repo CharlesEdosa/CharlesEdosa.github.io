@@ -2,8 +2,6 @@
 ## linkedin profile and social media 
 
 ![Static Badge](https://img.shields.io/badge/Charles%20Edosa-blue?style=plastic&logo=Linkedin&logoColor=blue&labelColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Foverjoy%2F)
-
-
 ![Static Badge](https://img.shields.io/badge/overjoycharles-black?style=for-the-badge&logo=X&logoColor=black&labelColor=white&link=https%3A%2F%2Ftwitter.com%2Foverjoycharles)
 
 
